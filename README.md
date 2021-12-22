@@ -1,9 +1,16 @@
 <h1 align="center">Hi 👋, I'm Yang Cheng</h1>
-<h3 align="center">A 2nd year graduate student at Northeastern University</h3>
+<h3 align="center">A 2nd year graduate student at Northeastern University </h3>
 
-- 🌱 I’m currently learning **Distributed Systems and Cloud Computing**
+## 💻 I'm Currently Learning 
+Northeastern University
+- CS6650 Building Scalable Distributed Systems 
+- CS6620 Fundamentals of Cloud Computing
 
-- 💬 Ask me about **Web Development, Software Engineering, Mobile App Development**
+## Currently Working
+I'm working as a teaching assistant for CS5520 Mobile App Development. I'm working on starter code and course plans for the Spring 2022 semester! 
+
+## About Me⚡:
+I'm a graduate student living in Boston MA. I'm a big fan of games (board games, video games, card games etc), especially base Settlers of Catan. For any beginner Catan players out there, no 🌾 equals defeat, no ⛰️ equals 7️⃣ point score.
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
